@@ -11,7 +11,11 @@ function App() {
       <header className="App-header">
         Auction
       </header>
+      
+      <div>
+        Signout here
       <AmplifySignOut />
+      </div>
     </div>
   );
 }
