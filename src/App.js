@@ -12,10 +12,10 @@ function App() {
         Auction
       </header>
       
-      <div>
+      <main>
         Signout here
       <AmplifySignOut />
-      </div>
+      </main>
     </div>
   );
 }
